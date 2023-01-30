@@ -45,3 +45,14 @@ Object.keys(statusCodesMap).forEach(code => {
   statusCodesMap[code] = normalize(code, statusCodesMap[code])
 })
 ```
+
+## Development
+
+Requires
+- deno
+- asdf
+
+```bash
+asdf install
+deno task dev
+```
