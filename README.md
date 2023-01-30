@@ -1,12 +1,12 @@
 # Deno-Fastify
 
 ## Goals
-[x] Touch Deno and Development Experiences  
-[x] Try NPM packages and typescript in Deno  
-[x] Try Deno cli like `fmt` | `run` or whatever  
-[x] Refactoring Backend project from nodejs to Deno  
-[] Write deno unit test and E2E test  
-[] Deploy deno-fastify on aws-lambda  
+* [x] Touch Deno and Development Experiences  
+* [x] Try NPM packages and typescript in Deno  
+* [x] Try Deno cli like `fmt` | `run` or whatever  
+* [x] Refactoring Backend project from nodejs to Deno  
+* [ ] Write deno unit test and E2E test  
+* [ ] Deploy deno-fastify on aws-lambda  
 
 ---
 
